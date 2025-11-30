@@ -18,7 +18,7 @@
         <div class="container-fluid bsb-hero-6 bsb-overlay border border-dark" style="--bsb-overlay-opacity: 0.5; --bsb-overlay-bg-color: var(--bs-light-rgb); background-image: url('./assets/img/hero-banner.jpg');">
           <div class="row justify-content-md-center align-items-center">
             <div class="col-12 col-md-11 col-xl-10">
-              <h2 class="display-1 text-center text-md-start text-shadow-head fw-bold mb-4">Welcome to Presta</h2>
+              <h2 class="display-1 text-center text-md-start text-shadow-head fw-bold mb-4">Welcome to saikat</h2>
               <p class="lead text-center text-md-start text-shadow-body mb-5 d-flex justify-content-sm-center justify-content-md-start">
                 <span class="col-12 col-sm-10 col-md-8 col-xxl-7">Where every squeak, every rattle, and every wobble finds its solution, ensuring your ride is always smooth and worry-free.</span>
               </p>
