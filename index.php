@@ -23,7 +23,7 @@
                 <span class="col-12 col-sm-10 col-md-8 col-xxl-7">Where every squeak, every rattle, and every wobble finds its solution, ensuring your ride is always smooth and worry-free.</span>
               </p>
               <div class="d-grid gap-2 d-sm-flex justify-content-sm-center justify-content-md-start">
-                <a href="#!" class="btn bsb-btn-2xl btn-outline-dark">Explore More</a>
+                <a href="#!" class="btn bsb-btn-2xl btn-outline-dark">Click here</a>
               </div>
             </div>
           </div>
